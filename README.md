@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EricEmerson963
-- 👀 I’m interested in C/C++, Python, and DragonflyBSD
-- 🌱 I’m currently learning C++
+- 👀 I’m interested in C/C++, Python, and *BSD
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on GNU projects
 - 📫 How to reach me: EricSampson@zoho.com
 
